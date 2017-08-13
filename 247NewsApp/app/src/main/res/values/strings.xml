@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">24/7 News</string>
+    <string name="error">No Internet Connection !! Try again.</string>
+
+    <string name="error_no_params">No Parameters</string>
+    <string name="error_bad_url">Invalid URL</string>
+    <string name="error_no_connection">No Internet Connection</string>
+    <string name="error_no_result">No Result Found</string>
+</resources>
